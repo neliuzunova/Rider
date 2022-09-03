@@ -70,6 +70,8 @@
     <Compile Include="Assets\Scripts\Goal.cs" />
     <Compile Include="Assets\Scripts\LevelSelect.cs" />
     <Compile Include="Assets\Scripts\Motor_script.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
     <Reference Include="Unity.2D.SpriteShape.Editor">
       <HintPath>C:/Neli/Rider/Rider/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
